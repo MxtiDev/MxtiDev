@@ -2,16 +2,21 @@
 </h1>
 <!--  -->
 
-## 📖 About me
+## 📖 About me 
 
 * 💻 I'm a Computer Engineer from 🇨🇱 (🎓 Graduating in 2025).
 
 * I enjoy building high-performance, SEO-optimized websites with a strong focus on user accessibility. My goal is to become a full-stack developer, mastering both front-end and back-end technologies.
 * 📊 I'm also very interested about how data analysis can have a significant impact on decision-making and driving business growth. I’m eager to explore how data can be used to solve real-world problems and create actionable insights that make a difference.
 * 🌐 You can see some of my projects on [my portfolio](https://.com//)
-
+* 
 <h1></h1>
 
+## 📥 Contact.
+
+- 📧 **Email:** [mgutierrez1.dev@gmail.com](mailto:mgutierrez1.dev@gmail.com)
+  
+- <a href="https://www.linkedin.com/in/matiasgutierrez9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="matidev" height="18" width="20" /></a> [/in/matiasgutierrez9](https://www.linkedin.com/in/matiasgutierrez9)
 
 
 ## ⚡ Tech Stack.
@@ -49,11 +54,4 @@
 </p>
 
 <h1></h1>
-
-## 📥 Contact with me.
-<p align="start">
-<a href="https://www.linkedin.com/in/matiasgutierrez9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="matidev" height="40" width="50" /></a>
-<a href = "mailto: mgutierrez1.dev@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="40" width="50" /></a>
-</p>
-
 
