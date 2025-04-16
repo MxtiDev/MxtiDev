@@ -25,7 +25,7 @@
 <!--lenguage icons-->
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript&perline=14" />
   </a>
 </p>
 
