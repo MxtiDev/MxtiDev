@@ -25,7 +25,7 @@
 <!--lenguage icons-->
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php&perline=14" />
   </a>
 </p>
 
@@ -33,7 +33,7 @@
 <!--frameworks icons-->
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,tailwindcss,bootstrap,pug,nodejs,express,react&perline=14" />
+    <img src="https://skillicons.dev/icons?i=astro,tailwindcss,bootstrap,pug,nodejs,react&perline=14" />
   </a>
 </p>
 
