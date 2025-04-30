@@ -7,7 +7,7 @@
 * 💻 I'm a Computer Engineer from 🇨🇱 (🎓 Graduating in 2025).
 
 * I enjoy building high-performance, SEO-optimized websites with a strong focus on user accessibility. My goal is to become a full-stack developer, mastering both front-end and back-end technologies.
-* 📊 I'm also very interested about how data analysis can have a significant impact on decision-making and driving business growth. I’m eager to explore how data can be used to solve real-world problems and create actionable insights that make a difference.
+* 📊 I'm also very interested in how data analysis can have a significant impact on decision-making and driving business growth. I’m eager to explore how data can be used to solve real-world problems and create actionable insights that make a difference.
 <!--* 🌐 You can see some of my projects on [my portfolio](https://.com//)frameworks icons-->
   
 <h1></h1>
